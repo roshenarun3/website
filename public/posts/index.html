@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Projects</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="http://example.org/assets/css/main.css"/>
+    <noscript><link rel="stylesheet" href="http://example.org/assets/css/noscript.css"/></noscript>
+    <style>
+        :root{--site-background : url("http://example.org/images/ALRED.jpg")};
+    </style> 
+    
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+
+<body class="is-preload">
+
+    
+        <div id="wrapper">
+
+            
+                <header id="header">
+                    <div class="logo">
+                        <a href="/"><span class="icon fa-folder"></span></a>
+                    </div>
+                    <div class="content">
+                        <div class="inner">
+                            <h1>Projects</h1>
+                            
+                            <p>
+                                What I&#39;ve Been Up to
+                            </p>
+                            
+                        </div>
+                    </div>
+                    <nav>
+                        <ul>
+                            
+                                
+                                    
+                                        <li>
+                                            <a href="#alfred-robot">Alfred - Robot</a>
+                                        </li>
+                                    
+                                
+                            
+                                
+                                    
+                                        <li>
+                                            <a href="#fiber-optics-table">Fiber-Optics Table</a>
+                                        </li>
+                                    
+                                
+                            
+                                
+                                    
+                                        <li>
+                                            <a href="#magic-mirror">Magic Mirror</a>
+                                        </li>
+                                    
+                                
+                            
+                        </ul>
+                    </nav>
+                </header>
+
+            
+                <div id="main">
+
+                    
+                        
+                            
+                                <article id="alfred-robot">
+                                    <h2 class="major">Alfred - Robot</h2>
+                                    <span class="image main"><img src="" alt="" /></span>
+                                    <h2 id="table-of-contents">Table of contents</h2>
+<ul>
+<li>
+<table>
+<thead>
+<tr>
+<th>Overview</th>
+</tr>
+</thead>
+</table>
+</li>
+<li>
+<table>
+<thead>
+<tr>
+<th>Main Tasks</th>
+</tr>
+</thead>
+</table>
+<ul>
+<li>Software</li>
+<li>Hardware</li>
+</ul>
+</li>
+</ul>
+<h2 id="overview">Overview</h2>
+<hr>
+<p><figure>
+    <img src="/images/ALRED.jpg" height="400"/> <figcaption>
+            <h4>Magic Mirror</h4>
+        </figcaption>
+</figure>
+
+ALFRED is an emotional support robot that resides on my desk. The main purpose of the robot
+was to gain experience using Arduino microcontrollers, sensors, and servos. ALFRED is a 4 axis robotic arm, utilizing 
+four servo motors and a gesture sensor (PAJ7620U2). It can sense numerous hand signals and react accordingly. ALFRED can 
+also respond to its own name. I am currently working on further developing this ability as I am dependent on google&rsquo;s 
+voice recognition library. A project I am looking into for furthering my <strong>machine learning</strong> knowledge is to implement a 
+<strong>neural network</strong> that can recognize the name ALFRED. Moving forward, I hope to applying new computer science and
+mechanical engineering concepts I learn from my classes.</p>
+<h2 id="main-tasks">Main Tasks</h2>
+<hr>
+<h3 id="software">Software</h3>
+<p><figure class="pull-left">
+    <img src="/images/mirror2.JPG" height="300"/> 
+</figure>
+ 
+From a software standpoint, Arduino uses <strong>C/C++</strong>. Since I took two <strong>data structures and algorithms classes in Java</strong>,
+the functionality and syntax was relatively straightforward to learn. The Arduino IDE is incredibly helpful for downloading and locating packages 
+for specific sensors and servos. After I downloaded the necessary packages, I ensured the file paths were correct and the 
+packages were being referenced in the code. Then, I wrote a sketch using a decision structure based on the gesture sensor 
+reading which activated the corresponding servo positions and movements. A crucial step was finding each servo&rsquo;s position
+limit which is dependent on the design of the arm. During my mechanical design phase of the robotic arm, I wasn&rsquo;t paying attention 
+to the orientation of the servos and snapped an arm clean in half. That&rsquo;s when I limited the servo positions to ensure that each servo can&rsquo;t 
+break the arm.</p>
+<h3 id="hardware">Hardware</h3>
+<p>The first major step in the construction of ALFRED was building a functional arm. I used basic <em>statics</em> and my understanding of 
+weight distribution to construct the arm. Once I was satisfied with the design, I had to integrate the servos, wiring, and 
+sensor. I used <strong>Ohm&rsquo;s law</strong> when choosing a power source and wiring path for the servos, ensuring that all the servos were sufficiently
+powered. The servos were powered by a 5V DC power supply, while the Arduino directly powered the gesture sensor with 3.3 volts. In order for the gesture sensor to function with the Arduino, I had 
+to <strong>solder</strong> the header pins to the sensor, enabling me to use Arduino jumper wires. Finally, I connected all the components 
+using a breadboard to keep track of the wiring. I added a singular LED to the servo power circuit to have a visual cue when its active. This 
+cue is mainly added precaution to ensure people, including myself, understand when the circuit is live and prevents people from shocking themselves.</p>
+
+                                </article>
+                            
+                        
+                    
+                        
+                            
+                                <article id="fiber-optics-table">
+                                    <h2 class="major">Fiber-Optics Table</h2>
+                                    <span class="image main"><img src="" alt="" /></span>
+                                    <h2 id="table-of-contents">Table of contents</h2>
+<ul>
+<li>
+<table>
+<thead>
+<tr>
+<th>Overview</th>
+</tr>
+</thead>
+</table>
+</li>
+<li>
+<table>
+<thead>
+<tr>
+<th>Main Obstacles</th>
+</tr>
+</thead>
+</table>
+<ul>
+<li>Carving</li>
+<li>Fiber-Optics</li>
+<li>Epoxy</li>
+</ul>
+</li>
+<li>
+<table>
+<thead>
+<tr>
+<th>Takeaway</th>
+</tr>
+</thead>
+</table>
+</li>
+<li>
+<table>
+<thead>
+<tr>
+<th>Gallery</th>
+</tr>
+</thead>
+</table>
+</li>
+</ul>
+<h2 id="overview">Overview</h2>
+<hr>
+<p><figure>
+    <img src="/images/NightFiberOpticTable.JPG" height="400"/> <figcaption>
+            <h4>Fiber-optics Table</h4>
+        </figcaption>
+</figure>
+
+The idea of this project was to make a unique, relatively inexpensive side table
+that would fit against my main table to form an L shaped desk. The concept of the table 
+stemmed from epoxy river tables and fiber-optic lamps. The main effect I wanted to create was
+a bioluminescent river that would flow through the table. To maximize the glow of the river,
+the table would be stained black. This detail gave me the idea to add a 
+star pattern and constellations around the river. I used an orange LED to highlight the 
+Big Dipper constellation along with Polaris as they hold special meaning to me.</p>
+<h2 id="main-obstacles">Main Obstacles</h2>
+<hr>
+<h3 id="carving">Carving</h3>
+<p><figure class="pull-left">
+    <img src="/images/Carving2.JPG" height="300"/> 
+</figure>
+ 
+The carving process was a time-consuming and monotonous step. In the beginning, I started carving the river pattern with 
+my Dremel tool equipped with a sanding bit. However, it took 10 minutes and 2 different sanding bits to sand a finger-sized area down 1/4&rdquo;. 
+Since this method was inefficient, I brainstormed and eventually developed a peculiar chiseling method. I realized 
+through woodworking projects that chiseling can carve substantial material. Although, the major drawback to 
+chiseling is the unpredictability associated with cracking, which usually occurs along the grain of the wood.  To combat the unpredictable cracking, 
+I theorized that I can limit the cracking if I enclose the area with
+deep incisions with the Dremel tool. This enables the surface cracks to occur but limits them to the enclosed area. I 
+started at one end of the river pattern and continued to make incisions on the outer edges of the pattern to limit the 
+cracking. This method proved to be an effective way to remove more material with high accuracy. Once carved, I did a few 
+passes with a mouse sander and this step was finished.</p>
+<h3 id="fiber-optics">Fiber-Optics</h3>
+<p><figure class="pull-left">
+    <img src="/images/elect2.jpg" height="300"/> 
+</figure>
+ 
+This step was interesting as I had absolutely no experience using fiber-optic cables before. 
+When I bought them I tried using a light bulb as a light source. I observed that certain cables were brighter than others depending 
+on the orientation they were placed in relation to the light bulb. This led me to conclude hat I needed a narrower, concentrated beam of light. I tried 
+using mirror film to narrow the light from the bulb into more of a direct beam, but I couldn&rsquo;t get the placement of the cables to optimize the reflection. This is 
+when I opened my electrical kit and started using singular LEDs. At first, I was skeptical about the LEDs, however they quickly proved effective 
+during testing as they provided a much more direct and narrow beam of light. So, I quickly put together a circuit with my knowledge of Ohm&rsquo;s law and wired 
+the 5 fiber-optic cable groups to 5 singular LEDs. This worked very well as the blue and white LEDs gave the fiber-optics a starry, bioluminescent effect.
+The orange LED gave a perfect accent to the starry sky, outlining the constellations with a warm orange/golden hue. I was 
+very pleased with this step.</p>
+<h3 id="epoxy">Epoxy</h3>
+<p><figure class="pull-left">
+    <img src="/images/epoxy.jpg" height="300"/> 
+</figure>
+ 
+The epoxy step was where I ran into a major issue. The main error stemmed from my overestimation of the viscosity of
+epoxy resin. Since this was my first project using epoxy resin, I concluded from online sources that epoxy had a high 
+enough viscosity to trap the fiber-optic cables without the need of any holding mechanisms for the cables themselves.
+I soon realized this was not the case. While I was pouring the epoxy resin, the cables continued to pull themselves out of the 
+resin. This behavior can be attributed to the fact that the cables were laid onto the river pattern using three different input holes. 
+These holes were drilled straight through the board, and the cables were fed through, attached, and sealed. This meant that the 
+fiber-optic cables needed to be bent 90 degrees to stay within the river pattern. Despite the flexibility of the cables, the bending 
+angle of 90 degrees required more holding force than the viscous force of epoxy resin. This lead to the use parchment paper and 
+my toolbox to slam all the wires down once the epoxy was poured to ensure all the cables would be submerged. However, this 
+meant that I had little control over the cable placement. I had to quickly address this problem because the two part epoxy 
+resin was mixed together, so I had about a 30 minutes time frame before the resin starts setting. The solution worked relatively well 
+as the cables were embedded into the epoxy. Although, the epoxy areas in direct contact with the parchment paper became clouded which 
+was the collateral damage to my technique. I tried sanding it down and polishing but had no luck. Overall, this step went well despite 
+the initial problems.</p>
+<h2 id="takeaway">Takeaway</h2>
+<hr>
+<p>This project proved to be more difficult than anticipated, but the engineering process was something I thoroughly enjoyed. 
+I had to use my previous woodworking experiences, online resources, and electricity concepts from Physics 2 to execute this 
+project. Additionally, being able to take abstract concepts from a class such as physics 2 and apply them into the real-world gave 
+me more insight into electricity and the nuances involved. Moving forward, I want to incorporate more electrical components 
+into my future projects and develop my knowledge in circuits, bridging the gap between real-world application and the classroom setting. 
+The fiber-optic table challenged me as a builder with the obstacles and issues we ran into. However, I overcame them and gained a better 
+understanding in different areas of expertise along with a beautiful table that still functions in my room today.</p>
+<h2 id="gallery">Gallery</h2>
+<hr>
+<p><figure>
+    <img src="/images/NightFiberOpticTable.JPG" height="400"/> 
+</figure>
+
+<figure class="center">
+    <img src="/images/elect.jpg" height="300"/> 
+</figure>
+ 
+<figure class="right">
+    <img src="/images/elect2.jpg" height="300"/> 
+</figure>
+ 
+<figure class="pull-left">
+    <img src="/images/Carving2.JPG" height="300"/> 
+</figure>
+ 
+<figure class="pull-left">
+    <img src="/images/Carving.jpg" height="300"/> 
+</figure>
+
+<figure class="pull-left">
+    <img src="/images/epoxy.jpg" height="300"/> 
+</figure>
+</p>
+
+                                </article>
+                            
+                        
+                    
+                        
+                            
+                                <article id="magic-mirror">
+                                    <h2 class="major">Magic Mirror</h2>
+                                    <span class="image main"><img src="" alt="" /></span>
+                                    <h2 id="table-of-contents">Table of contents</h2>
+<ul>
+<li>
+<table>
+<thead>
+<tr>
+<th>Overview</th>
+</tr>
+</thead>
+</table>
+</li>
+<li>
+<table>
+<thead>
+<tr>
+<th>Main Takeaways</th>
+</tr>
+</thead>
+</table>
+<ul>
+<li>Raspberry Pi/Linux</li>
+<li>Software Concepts</li>
+</ul>
+</li>
+</ul>
+<h2 id="overview">Overview</h2>
+<hr>
+<p><figure>
+    <img src="/images/mirror.jpg" height="400"/> <figcaption>
+            <h4>Magic Mirror</h4>
+        </figcaption>
+</figure>
+
+This project was an extremely fun, enlightening, and useful build. The magic mirror concept 
+has been around for a while, so there are numerous github pages and videos explaining 
+how to build one for yourself. However, I added certain widgets and went for a frameless design
+to further personalize my mirror. The mirror itself is comprised of a wooden frame and glass with a two-way mirror film. 
+When light is blocked out from one side of the film, the other side becomes completely reflective. Since the program runs a 
+black background, the text and images shine through the glass while the background is reflective, 
+creating the magic mirror effect. No matter how many times I check my mirror, the view never gets old.</p>
+<h2 id="main-takeaways">Main Takeaways</h2>
+<hr>
+<h3 id="raspberry-pilinux">Raspberry Pi/Linux</h3>
+<p><figure class="pull-left">
+    <img src="/images/mirror2.JPG" height="300"/> 
+</figure>
+ 
+Everything about the Raspberry Pi and Linux was relatively new to me, from uploading the OS onto the SD card to 
+maneuvering around files throughout the device. This experience allowed me to learn <strong>bash commands</strong> to alter, move, and 
+work with files. I also furthered my understanding of <strong>GIT</strong> as I used clones from github to obtain localized versions of 
+files and add-ons. Additionally, I configured my Raspberry Pi to my MacBook Air through <strong>Microsoft Remote Desktop</strong>. This allowed 
+me to remote access my Raspberry Pi without having to directly use the mirror. Another learning experience I had was with the <strong>audio inputs and 
+outputs</strong> of the Raspberry Pi. I configured a usb microphone and usb speaker to the Raspberry Pi. However, I couldn&rsquo;t get my Python script, 
+which transferred the microphone input into text through <strong>google&rsquo;s voice recognition library</strong>, to register the microphone. Based on 
+online forums, there seemed to be issues with Raspberry Pi 4 <strong>audio drivers</strong> which were common but extremely hard to solve. Overall I have learned and 
+experimented with my Raspberry Pi, facilitating me with experience that can be not only be applied to Raspberry Pi devices but 
+also other linux devices and projects down the line.</p>
+<h3 id="software-concepts">Software Concepts</h3>
+<p>The magic mirror software exposed me to different types of files and computer science concepts. <strong>API keys</strong> were a crucial concept 
+to understand, enabling the magic mirror to obtain localized information and weather. I added a Spotify module that used 
+<strong>OAuth Tokens</strong> which allow the magic mirror to obtain user data from my Spotify account. These two concepts are very powerful in terms 
+of application building and obtaining data. I also added a significant amount of phrases that would change according to the 
+weather and time of day. This was implemented using a standard decision structure in JSON. Moving forward, I plan to experiment and research
+further into <strong>JSON</strong> for web development purposes as it remains an incredibly powerful tool.</p>
+
+                                </article>
+                            
+                        
+                    
+
+                </div>
+
+                
+<footer id="footer">
+    <p class="copyright">&copy; Design: <a href="https://github.com/d-asnaghi">d-asnaghi</a> and <a href="https://html5up.net">HTML5 UP</a>.</p>
+</footer>
+
+        </div>
+
+    
+    <div id="bg"></div>
+</body>
+
+
+    
+    <script src=http://example.org/assets/js/jquery.min.js></script>
+    <script src=http://example.org/assets/js/browser.min.js></script>
+    <script src=http://example.org/assets/js/breakpoints.min.js></script>
+    <script src=http://example.org/assets/js/util.js></script>
+    <script src=http://example.org/assets/js/main.js></script>
+
+</html>

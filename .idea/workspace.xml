@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf7ad2c7-ebaf-4168-b2a4-0fce8e28d03f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/dimension" beforeDir="false" afterPath="$PROJECT_DIR$/themes/dimension" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/dimension/exampleSite/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/dimension/exampleSite/content/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/dimension/exampleSite/content/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/dimension/exampleSite/content/elements.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/dimension/exampleSite/content/posts/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/dimension/exampleSite/content/posts/_index.md" afterDir="false" />
@@ -15,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/dimension" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k7ybpRL15AwTVM0kFT9nz1JU0S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
