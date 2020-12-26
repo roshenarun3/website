@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
+    <link>http://roshenarun.com/posts/</link>
     <description>Recent content in Projects on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://roshenarun.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alfred - Robot</title>
-      <link>http://example.org/posts/robot/elements/</link>
+      <link>http://roshenarun.com/posts/robot/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/robot/elements/</guid>
+      <guid>http://roshenarun.com/posts/robot/elements/</guid>
       <description>Table of contents      Overview         Main Tasks     Software Hardware    Overview    Magic Mirror   ALFRED is an emotional support robot that resides on my desk. The main purpose of the robot was to gain experience using Arduino microcontrollers, sensors, and servos. ALFRED is a 4 axis robotic arm, utilizing four servo motors and a gesture sensor (PAJ7620U2).</description>
     </item>
     
     <item>
       <title>Fiber-Optics Table</title>
-      <link>http://example.org/posts/fiberoptic-table/elements/</link>
+      <link>http://roshenarun.com/posts/fiberoptic-table/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/fiberoptic-table/elements/</guid>
+      <guid>http://roshenarun.com/posts/fiberoptic-table/elements/</guid>
       <description>Table of contents      Overview         Main Obstacles     Carving Fiber-Optics Epoxy       Takeaway         Gallery      Overview    Fiber-optics Table   The idea of this project was to make a unique, relatively inexpensive side table that would fit against my main table to form an L shaped desk.</description>
     </item>
     
     <item>
       <title>Magic Mirror</title>
-      <link>http://example.org/posts/magic-mirror/elements/</link>
+      <link>http://roshenarun.com/posts/magic-mirror/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/magic-mirror/elements/</guid>
+      <guid>http://roshenarun.com/posts/magic-mirror/elements/</guid>
       <description>Table of contents      Overview         Main Takeaways     Raspberry Pi/Linux Software Concepts    Overview    Magic Mirror   This project was an extremely fun, enlightening, and useful build. The magic mirror concept has been around for a while, so there are numerous github pages and videos explaining how to build one for yourself.</description>
     </item>
     
