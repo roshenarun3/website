@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf7ad2c7-ebaf-4168-b2a4-0fce8e28d03f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/themes/dimension/exampleSite/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/dimension/exampleSite/content/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/dimension/exampleSite/content/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/dimension/exampleSite/content/elements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/dimension/exampleSite/content/posts/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/dimension/exampleSite/content/posts/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/dimension/layouts/_default/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/dimension/layouts/_default/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/dimension/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/dimension/layouts/_default/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/dimension/static/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/dimension/static/admin/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/dimension" />
+  </component>
+  <component name="ProjectId" id="1k7ybpRL15AwTVM0kFT9nz1JU0S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\roshe\Desktop\mysite3\content" />
+      <recent name="C:\Users\roshe\Desktop\mysite3\static\images" />
+      <recent name="C:\Users\roshe\Desktop\mysite3\content\posts\Fiberoptic Table" />
+      <recent name="C:\Users\roshe\Desktop\mysite3\content\posts\Magic Mirror" />
+      <recent name="C:\Users\roshe\Desktop\mysite3\content\About" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\roshe\Desktop\mysite3\static\images" />
+      <recent name="C:\Users\roshe\Desktop\mysite3\themes\dimension\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf7ad2c7-ebaf-4168-b2a4-0fce8e28d03f" name="Default Changelist" comment="" />
+      <created>1605065999310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605065999310</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1608825909960">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="-1238" y="270" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1608518536558" />
+    <state x="-1238" y="270" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1680.0.1680.1050@0.0.1280.720" timestamp="1608525004260" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1920.0.1280.720@0.0.1280.720" timestamp="1605320337719" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1608825909960" />
+  </component>
+</project>
