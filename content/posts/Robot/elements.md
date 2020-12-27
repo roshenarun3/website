@@ -26,7 +26,7 @@ mechanical engineering concepts I learn from my classes.
 ## Main Tasks
 ----
 ### Software
-{{< figure src="/images/software.png" height="300" class="pull-left"  >}} 
+{{< figure src="/images/software.png" height="200" class="pull-left"  >}} 
 From a software standpoint, Arduino uses **C/C++**. Since I took two **data structures and algorithms classes in Java**,
 the functionality and syntax was relatively straightforward to learn. The Arduino IDE is incredibly helpful for downloading and locating packages 
 for specific sensors and servos. After I downloaded the necessary packages, I ensured the file paths were correct and the 
