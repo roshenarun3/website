@@ -28,7 +28,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://roshenarun.com/posts/robot/elements/</guid>
-      <description>Table of contents      Overview         Main Tasks     Software Hardware    Overview    Magic Mirror   ALFRED is an emotional support robot that resides on my desk. The main purpose of the robot was to gain experience using Arduino microcontrollers, sensors, and servos. ALFRED is a 4 axis robotic arm, utilizing four servo motors and a gesture sensor (PAJ7620U2).</description>
+      <description>Table of contents      Overview         Main Tasks     Software Hardware    Overview    ALFRED   ALFRED is an emotional support robot that resides on my desk. The main purpose of the robot was to gain experience using Arduino microcontrollers, sensors, and servos. ALFRED is a 4 axis robotic arm, utilizing four servo motors and a gesture sensor (PAJ7620U2).</description>
     </item>
     
     <item>
