@@ -17,9 +17,8 @@
       
       <guid>http://roshenarun.com/elements3/</guid>
       <description>Table of contents  Education Experience Skills  Education Undergraduate Student at Virginia Tech
- Mechanical Engineering Major Computer Science Minor GPA: 3.56  Relevant Courses Taken
- PHYS 1 (Mechanics) &amp;amp; PHYS 2 (Electricity and Magnetism) Multivariable Calculus Linear Algebra Software Design and Data Structures (Java) Statics Differential Equations Manufacturing Processes Lab Engineering Analysis Numerical Methods (MATLAB) Elements of Materials Engineering  Courses Taking Spring 2021
- Thermodynamics Circuits Mechanics of Deformable Bodies Dynamics  Experience Undergraduate Researcher (Nest ML) &amp;ndash; |January 2020 - Present| &amp;ndash; My partner and I are currently developing a system that enhances the capabilities of the Nest Thermostat.</description>
+ Mechanical Engineering Major Computer Science Minor Overall GPA: 3.56 In Major GPA: 3.70  Relevant Courses Taken
+ PHYS 1 (Mechanics) &amp;amp; PHYS 2 (Electricity and Magnetism) Multivariable Calculus Linear Algebra Software Design and Data Structures (Java) Statics Differential Equations Manufacturing Processes Lab Engineering Analysis Numerical Methods (MATLAB) Elements of Materials Engineering  Courses Taking Spring 2021</description>
     </item>
     
     <item>
@@ -55,7 +54,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://roshenarun.com/posts/magic-mirror/elements/</guid>
-      <description>Table of contents      Overview         Main Takeaways     Raspberry Pi/Linux Software Concepts    Overview    Magic Mirror   This project was an extremely fun, enlightening, and useful build. The magic mirror concept has been around for a while, so there are numerous github pages and videos explaining how to build one for yourself.</description>
+      <description>Table of contents      Overview         Main Takeaways     Raspberry Pi/Linux Software Concepts    Overview    Magic Mirror   This project was an extremely fun, enlightening, and useful build. The magic mirror concept has been around for a while, so there are numerous github pages and videos explaining how to build one.</description>
     </item>
     
   </channel>

@@ -13,7 +13,8 @@ title: About Me
 Undergraduate Student at Virginia Tech
 - Mechanical Engineering Major
 - Computer Science Minor
-- GPA: 3.56
+- Overall GPA: 3.56
+- In Major GPA: 3.70
 
 *Relevant Courses Taken*
 - PHYS 1 (Mechanics) & PHYS 2 (Electricity and Magnetism)
@@ -37,21 +38,22 @@ Undergraduate Student at Virginia Tech
 ## Experience
 **Undergraduate Researcher (Nest ML)** -- |January 2020 - Present| -- My partner and I are currently developing a system that 
 enhances the capabilities of the Nest Thermostat. The system uses a Raspberry Pi to approximate the heat transfer 
-using an external temperature node and weather API data. It will then be able to intuitively learn what the ideal set temperature 
-for the Nest thermostat will be from the heat transfer value calculated. I worked on the database component of the project which
+using an inside temperature node and weather API data. It will then be able to intuitively learn what the ideal set temperature 
+for the Nest thermostat will be to maintain the designated ambient temperature. I worked on the database component of the project which
 logs temperature data and calculated values into a sqlite database. The logging database references a lookup table
 composed of three columns: temperature node reading (inside), outside weather temperature, and Qtotal (heat transfer). This lookup table is prepopulated 
 with each row containing a different realistic combination of temperature node reading and outside weather temperature.
-So when the user inputs a set temperature through the nest, the temperature node and outside weather can be referenced. These values
+So when the user inputs a set temperature through the nest, the temperature node and outside weather data can be referenced. These values
 are then inserted into a SQL query that can quickly pinpoint the corresponding Qtotal value. We are currently working on relating this Qtotal value, which 
-is calculated by using a combination of the radiation and convection heat transfer equations, to the ideal set temperature 
-for the Nest. My partner and I have been working to implement a feedforward neural network system that takes the Qtotal value along with 
-temperature node data and weather API to estimate the ideal set temperature for the Nest. 
+is calculated by using a combination of radiation and convection heat transfer equations, to the ideal set temperature 
+for the Nest. My partner and I have been learning to implement a feedforward neural network system. This network will take the Qtotal value along with 
+temperature node data and weather API to estimate the ideal set temperature for the Nest that best maintains the user's ambient temperature setting 
+(what the user wants the house to feel like). 
 
 
 **Formula SAE Recruit** -- |October 2019 - Present| -- I am a recruit for the Electric Powertrain Team (EPT). I helped design the 
 Emrax motor casing and PCB mounts for the Electric Vehicle (EV). The CAD Software used in designing was mainly NX12 and SOLIDWORKS. 
-I additionally learned about the mechanics of both EV and internal combustion (IC) vehicles through attending different subteam meetings. The 
+I additionally learned about the mechanics of both EV and internal combustion (IC) vehicle through attending different subteam meetings. The 
 engine team taught me about the stages of combustion: intake, compression, combustion, and exhaust. Additionally, I helped service 
 our transmission as there were issues with a chipped gear. The suspension team also taught me the extreme importance of a 
 differential and the inner spider gears, which enable the power to be transmitted from the crankshaft to the wheels. 

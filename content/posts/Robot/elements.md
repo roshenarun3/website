@@ -38,7 +38,7 @@ break the arm.
 
 ### Hardware
 {{< figure src="/images/hardware.JPG" height="300" class="pull-left"  >}} 
-The first major step in the construction of ALFRED was building a functional arm. I used basic *statics* and my understanding of 
+The first major step in the construction of ALFRED was building a functional arm. I used basic **statics** and my understanding of 
 weight distribution to construct the arm. Once I was satisfied with the design, I had to integrate the servos, wiring, and 
 sensor. I used **Ohm's law** when choosing a power source and wiring path for the servos, ensuring that all the servos were sufficiently
 powered. The servos were powered by a 5V DC power supply, while the Arduino directly powered the gesture sensor with 3.3 volts. In order for the gesture sensor to function with the Arduino, I had 

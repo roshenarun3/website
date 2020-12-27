@@ -47,11 +47,11 @@ passes with a mouse sander and this step was finished.
 {{< figure src="/images/elect2.jpg" height="300" class="pull-left"  >}} 
 This step was interesting as I had absolutely no experience using fiber-optic cables before. 
 When I bought them I tried using a light bulb as a light source. I observed that certain cables were brighter than others depending 
-on the orientation they were placed in relation to the light bulb. This led me to conclude hat I needed a narrower, concentrated beam of light. I tried 
+on the orientation they were placed in relation to the light bulb. This led me to conclude that I needed a narrower, concentrated beam of light. I tried 
 using mirror film to narrow the light from the bulb into more of a direct beam, but I couldn't get the placement of the cables to optimize the reflection. This is 
 when I opened my electrical kit and started using singular LEDs. At first, I was skeptical about the LEDs, however they quickly proved effective 
 during testing as they provided a much more direct and narrow beam of light. So, I quickly put together a circuit with my knowledge of Ohm's law and wired 
-the 5 fiber-optic cable groups to 5 singular LEDs. This worked very well as the blue and white LEDs gave the fiber-optics a starry, bioluminescent effect.
+the 5 fiber-optic cable groups to 5 singular LEDs. This worked very well as the blue and white LEDs gave the table a starry, bioluminescent effect.
 The orange LED gave a perfect accent to the starry sky, outlining the constellations with a warm orange/golden hue. I was 
 very pleased with this step. 
 
@@ -62,24 +62,24 @@ epoxy resin. Since this was my first project using epoxy resin, I concluded from
 enough viscosity to trap the fiber-optic cables without the need of any holding mechanisms for the cables themselves.
 I soon realized this was not the case. While I was pouring the epoxy resin, the cables continued to pull themselves out of the 
 resin. This behavior can be attributed to the fact that the cables were laid onto the river pattern using three different input holes. 
-These holes were drilled straight through the board, and the cables were fed through, attached, and sealed. This meant that the 
+These holes were drilled straight through the board, and the cables were fed through from underneath the table, attached, and sealed. This meant that the 
 fiber-optic cables needed to be bent 90 degrees to stay within the river pattern. Despite the flexibility of the cables, the bending 
-angle of 90 degrees required more holding force than the viscous force of epoxy resin. This lead to the use parchment paper and 
+angle of 90 degrees required more holding force than the viscous force of epoxy resin. This lead to the use of parchment paper and 
 my toolbox to slam all the wires down once the epoxy was poured to ensure all the cables would be submerged. However, this 
-meant that I had little control over the cable placement. I had to quickly address this problem because the two part epoxy 
+meant that I had little control over the cable placement. Additionally, I had to quickly address this problem because the two part epoxy 
 resin was mixed together, so I had about a 30 minutes time frame before the resin starts setting. The solution worked relatively well 
 as the cables were embedded into the epoxy. Although, the epoxy areas in direct contact with the parchment paper became clouded which 
-was the collateral damage to my technique. I tried sanding it down and polishing but had no luck. Overall, this step went well despite 
+was the collateral damage to my technique. I tried sanding and polishing the clouded sections down but had no luck. Overall, this step went well despite 
 the initial problems. 
 
 
 ## Takeaway
 ----
 This project proved to be more difficult than anticipated, but the engineering process was something I thoroughly enjoyed. 
-I had to use my previous woodworking experiences, online resources, and electricity concepts from Physics 2 to execute this 
-project. Additionally, being able to take abstract concepts from a class such as physics 2 and apply them into the real-world gave 
-me more insight into electricity and the nuances involved. Moving forward, I want to incorporate more electrical components 
-into my future projects and develop my knowledge in circuits, bridging the gap between real-world application and the classroom setting. 
+I had to use my previous **woodworking experiences**, online resources, and **electricity concepts** to execute this 
+project. Additionally, the fiber-optic table gave me more insight into electricity and the nuances involved in real-world application. 
+Moving forward, I want to incorporate more electrical components 
+into my future projects to further develop my knowledge in circuits, bridging the gap between real-world application and the classroom setting. 
 The fiber-optic table challenged me as a builder with the obstacles and issues we ran into. However, I overcame them and gained a better 
 understanding in different areas of expertise along with a beautiful table that still functions in my room today. 
 ## Gallery 

@@ -17,7 +17,7 @@ title: Magic Mirror
 {{< figure src="/images/mirror.jpg" title="Magic Mirror" height="400" >}}
 This project was an extremely fun, enlightening, and useful build. The magic mirror concept 
 has been around for a while, so there are numerous github pages and videos explaining 
-how to build one for yourself. However, I added certain widgets and went for a frameless design
+how to build one. However, I added certain widgets and went for a frameless design
 to further personalize my mirror. The mirror itself is comprised of a wooden frame and glass with a two-way mirror film. 
 When light is blocked out from one side of the film, the other side becomes completely reflective. Since the program runs a 
 black background, the text and images shine through the glass while the background is reflective, 
@@ -29,7 +29,7 @@ creating the magic mirror effect. No matter how many times I check my mirror, th
 {{< figure src="/images/mirror2.JPG" height="300" class="pull-left"  >}} 
 Everything about the Raspberry Pi and Linux was relatively new to me, from uploading the OS onto the SD card to 
 maneuvering around files throughout the device. This experience allowed me to learn **bash commands** to alter, move, and 
-work with files. I also furthered my understanding of **GIT** as I used clones from github to obtain localized versions of 
+work with files. I also furthered my understanding of **Git** as I used clones from github to obtain localized versions of 
 files and add-ons. Additionally, I configured my Raspberry Pi to my MacBook Air through **Microsoft Remote Desktop**. This allowed 
 me to remote access my Raspberry Pi without having to directly use the mirror. Another learning experience I had was with the **audio inputs and 
 outputs** of the Raspberry Pi. I configured a usb microphone and usb speaker to the Raspberry Pi. However, I couldn't get my Python script, 

@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf7ad2c7-ebaf-4168-b2a4-0fce8e28d03f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/images/linkedin.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/elements3.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/elements3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/elements4.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/elements4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/Fiberoptic Table/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Fiberoptic Table/elements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/Magic Mirror/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Magic Mirror/elements.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/posts/Robot/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Robot/elements.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,16 +33,16 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\roshe\Desktop\mysite3\static\images" />
-      <recent name="C:\Users\roshe\Desktop\mysite3\themes\dimension\images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\roshe\Desktop\mysite3\static\images" />
       <recent name="C:\Users\roshe\Desktop\mysite3\content" />
       <recent name="C:\Users\roshe\Desktop\mysite3\content\posts\Fiberoptic Table" />
       <recent name="C:\Users\roshe\Desktop\mysite3\content\posts\Magic Mirror" />
       <recent name="C:\Users\roshe\Desktop\mysite3\content\About" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\roshe\Desktop\mysite3\static\images" />
+      <recent name="C:\Users\roshe\Desktop\mysite3\themes\dimension\images" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -58,29 +63,37 @@
       <option name="project" value="LOCAL" />
       <updated>1609045811501</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="software image size">
+      <created>1609046304756</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609046304756</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changes magic mirror text in alfred" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes magic mirror text in alfred" />
+    <MESSAGE value="software image size" />
+    <option name="LAST_COMMIT_MESSAGE" value="software image size" />
   </component>
   <component name="WindowStateProjectService">
     <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1609046303646">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1609046303646" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1609046404922">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1609047030156">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1609046404922" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1609044789211">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1609047030156" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1609087107291">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="-1238" y="270" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1608518536558" />
     <state x="-1238" y="270" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1680.0.1680.1050@0.0.1280.720" timestamp="1608525004260" />
     <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1920.0.1280.720@0.0.1280.720" timestamp="1605320337719" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1609044789211" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1609087107291" />
     <state x="450" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609046248772">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
