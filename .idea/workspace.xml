@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf7ad2c7-ebaf-4168-b2a4-0fce8e28d03f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/images/hardware.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/software.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/Robot/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Robot/elements.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/dimension" beforeDir="false" afterPath="$PROJECT_DIR$/themes/dimension" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/dimension/exampleSite/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/dimension/exampleSite/content/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/dimension/exampleSite/content/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/dimension/exampleSite/content/elements.md" afterDir="false" />
@@ -28,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -58,12 +62,16 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1608825909960">
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1609045740964">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1609045740964" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1609044789211">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="-1238" y="270" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1608518536558" />
     <state x="-1238" y="270" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1680.0.1680.1050@0.0.1280.720" timestamp="1608525004260" />
     <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1920.0.1280.720@0.0.1280.720" timestamp="1605320337719" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1608825909960" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1609044789211" />
   </component>
 </project>

@@ -14,7 +14,7 @@ title: Alfred - Robot
 
 ## Overview
 ----
-{{< figure src="/images/ALRED.jpg" title="Magic Mirror" height="400" >}}
+{{< figure src="/images/ALRED.jpg" title="ALFRED" height="400" >}}
 ALFRED is an emotional support robot that resides on my desk. The main purpose of the robot
 was to gain experience using Arduino microcontrollers, sensors, and servos. ALFRED is a 4 axis robotic arm, utilizing 
 four servo motors and a gesture sensor (PAJ7620U2). It can sense numerous hand signals and react accordingly. ALFRED can 
@@ -26,7 +26,7 @@ mechanical engineering concepts I learn from my classes.
 ## Main Tasks
 ----
 ### Software
-{{< figure src="/images/mirror2.JPG" height="300" class="pull-left"  >}} 
+{{< figure src="/images/software.png" height="300" class="pull-left"  >}} 
 From a software standpoint, Arduino uses **C/C++**. Since I took two **data structures and algorithms classes in Java**,
 the functionality and syntax was relatively straightforward to learn. The Arduino IDE is incredibly helpful for downloading and locating packages 
 for specific sensors and servos. After I downloaded the necessary packages, I ensured the file paths were correct and the 
@@ -37,6 +37,7 @@ to the orientation of the servos and snapped an arm clean in half. That's when I
 break the arm. 
 
 ### Hardware
+{{< figure src="/images/hardware.JPG" height="300" class="pull-left"  >}} 
 The first major step in the construction of ALFRED was building a functional arm. I used basic *statics* and my understanding of 
 weight distribution to construct the arm. Once I was satisfied with the design, I had to integrate the servos, wiring, and 
 sensor. I used **Ohm's law** when choosing a power source and wiring path for the servos, ensuring that all the servos were sufficiently
