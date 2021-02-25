@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bf7ad2c7-ebaf-4168-b2a4-0fce8e28d03f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/elements4.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/elements4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/elements3.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/elements3.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,24 +74,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="software image size" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="97" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609371147120">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="97" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1609371147120" />
     <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1609046303646">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1609046303646" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1609047030156">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1614287284016">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/-1920.0.1280.720@0.0.1280.720" timestamp="1614287284016" />
     <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1609047030156" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1609087107291">
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1609371128392">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="-1238" y="270" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1608518536558" />
     <state x="-1238" y="270" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1680.0.1680.1050@0.0.1280.720" timestamp="1608525004260" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1920.0.1280.720@0.0.1280.720" timestamp="1605320337719" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1609371128392" />
     <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1609087107291" />
     <state x="450" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609046248772">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="450" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1609046248772" />
+    <state x="366" y="152" key="git4idea.merge.GitPullDialog" timestamp="1614286252573">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="366" y="152" key="git4idea.merge.GitPullDialog/0.0.1280.720/-1920.0.1280.720@0.0.1280.720" timestamp="1614286252573" />
   </component>
 </project>

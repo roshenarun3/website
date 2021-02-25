@@ -50,8 +50,12 @@ for the Nest. My partner and I have been learning to implement a feedforward neu
 temperature node data and weather API to estimate the ideal set temperature for the Nest that best maintains the user's ambient temperature setting 
 (what the user wants the house to feel like). 
 
+**VT RockSat Finite Element Analysis (FEA) Engineer** -- |January 2021 - Present| -- I am a FEA Engineer on Virginia Tech's
+RockSat team. I am currently learning the foundations of thermal analysis and simulation testing. The main software we use 
+is Simscale and SOLIDWORKS. Additionally, I am learning how to conduct vibration analysis as well. 
 
-**Formula SAE Recruit** -- |October 2019 - Present| -- I am a recruit for the Electric Powertrain Team (EPT). I helped design the 
+
+**Formula SAE Recruit** -- |October 2019 - October 2020| -- I was a recruit for the Electric Powertrain Team (EPT). I helped design the 
 Emrax motor casing and PCB mounts for the Electric Vehicle (EV). The CAD Software used in designing was mainly NX12 and SOLIDWORKS. 
 I additionally learned about the mechanics of both EV and internal combustion (IC) vehicle through attending different subteam meetings. The 
 engine team taught me about the stages of combustion: intake, compression, combustion, and exhaust. Additionally, I helped service 
