@@ -73,36 +73,28 @@
                                 <article id="alfred-robot">
                                     <h2 class="major">Alfred - Robot</h2>
                                     <span class="image main"><img src="" alt="" /></span>
-                                    <h2 id="table-of-contents">Table of contents</h2>
+                                    <h2 id="table-of-contents"><strong>Table of contents</strong></h2>
+<hr>
+<blockquote>
+<h3 id="version-1"><strong>Version 1</strong></h3>
 <ul>
-<li>
-<table>
-<thead>
-<tr>
-<th>Overview</th>
-</tr>
-</thead>
-</table>
-</li>
-<li>
-<table>
-<thead>
-<tr>
-<th>Main Tasks</th>
-</tr>
-</thead>
-</table>
-<ul>
+<li>Overview (V1)</li>
 <li>Software</li>
 <li>Hardware</li>
 </ul>
-</li>
+</blockquote>
+<blockquote>
+<h3 id="version-2">Version 2</h3>
+<ul>
+<li>Current Progress Report</li>
 </ul>
-<h2 id="overview">Overview</h2>
+</blockquote>
+<h2 id="version-1-1"><strong>Version 1</strong></h2>
 <hr>
+<h3 id="overview-v1">Overview (V1)</h3>
 <p><figure>
     <img src="/images/ALRED.jpg" height="400"/> <figcaption>
-            <h4>ALFRED</h4>
+            <h4>ALFRED V1</h4>
         </figcaption>
 </figure>
 
@@ -113,9 +105,7 @@ also respond to its own name. I am currently working on further developing this 
 voice recognition library. A project I am looking into for furthering my <strong>machine learning</strong> knowledge is to implement a 
 <strong>neural network</strong> that can recognize the name ALFRED. Moving forward, I hope to applying new computer science and
 mechanical engineering concepts I learn from my classes.</p>
-<h2 id="main-tasks">Main Tasks</h2>
-<hr>
-<h3 id="software">Software</h3>
+<h4 id="software">Software</h4>
 <p><figure class="pull-left">
     <img src="/images/software.png" height="200"/> 
 </figure>
@@ -128,7 +118,7 @@ reading which activated the corresponding servo positions and movements. A cruci
 limit which is dependent on the design of the arm. During my mechanical design phase of the robotic arm, I wasn&rsquo;t paying attention 
 to the orientation of the servos and snapped an arm clean in half. That&rsquo;s when I limited the servo positions to ensure that each servo can&rsquo;t 
 break the arm.</p>
-<h3 id="hardware">Hardware</h3>
+<h4 id="hardware">Hardware</h4>
 <p><figure class="pull-left">
     <img src="/images/hardware.JPG" height="300"/> 
 </figure>
@@ -140,6 +130,38 @@ powered. The servos were powered by a 5V DC power supply, while the Arduino dire
 to <strong>solder</strong> the header pins to the sensor, enabling me to use Arduino jumper wires. Finally, I connected all the components 
 using a breadboard to keep track of the wiring. I added a singular LED to the servo power circuit to have a visual cue when its active. This 
 cue is mainly added precaution to ensure people, including myself, understand when the circuit is live and prevents people from shocking themselves.</p>
+<h2 id="version-2-1"><strong>Version 2</strong></h2>
+<hr>
+<h3 id="current-progress-report">Current Progress Report</h3>
+<p><figure>
+    <img src="/images/AlfredRFrontPlate.jpg" height="400"/> <figcaption>
+            <h4>ALFRED V2</h4>
+        </figcaption>
+</figure>
+
+The start of Alfred V2 has begun with the base front plate being 3D printed and shown above. I used <strong>SOLIDWORKS</strong> to build the model 
+and a Creality Ender 3 Pro 3D Printer to print. I made sure to include guide paths for the wiring which has made soldering the LEDs to 
+each letter and the insignia much easier. In addition to this front plate design, I previously 3D printed and designed the 
+base motor mount which can be seen below in white. The PLA I used was white but in the picture above I spray painted the front plate with a 
+metallic bronze finish. From a software standpoint, I have been reevaluating the use of the current Arduino Uno, or switching over to the 
+new Raspberry Pi Pico due to its additional software capabilities. The initial idea was to use the Raspberry Pi 4 that I possess to control the 
+Arduino Uno. However, after doing a bit of research into the subject I don&rsquo;t believe this method will enable me to get the full integration that I would want. 
+The current plan moving forward is to finish designing and printing all of Alfred&rsquo;s parts. The most troublesome mechanism is going to be the face/claw 
+that I am planning to add to the top. This face will be controlled by servos that are connected through strings to enable simple facial expressions (eyebrows, 
+eyes, and mouth). I will continue to upload progress of this project and look forward to finishing it by the end of my Spring 2021 semester! 
+Attached below are some progress pictures so please feel free to check them out. :) 
+<figure>
+    <img src="/images/FrontPlate.jpg" height="400"/> 
+</figure>
+
+<figure>
+    <img src="/images/FrontPlate2.jpg" height="400"/> 
+</figure>
+
+<figure>
+    <img src="/images/MotorBaseMount.jpg" height="400"/> 
+</figure>
+</p>
 
                                 </article>
                             

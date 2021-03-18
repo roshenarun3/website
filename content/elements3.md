@@ -13,6 +13,7 @@ title: About Me
 Undergraduate Student at Virginia Tech
 - Mechanical Engineering Major
 - Computer Science Minor
+- Math Minor
 - Overall GPA: 3.56
 - In Major GPA: 3.70
 
@@ -50,9 +51,9 @@ for the Nest. My partner and I have been learning to implement a feedforward neu
 temperature node data and weather API to estimate the ideal set temperature for the Nest that best maintains the user's ambient temperature setting 
 (what the user wants the house to feel like). 
 
-**VT RockSat Finite Element Analysis (FEA) Engineer** -- |January 2021 - Present| -- I am a FEA Engineer on Virginia Tech's
-RockSat team. I am currently learning the foundations of thermal analysis and simulation testing. The main software we use 
-is Simscale and SOLIDWORKS. Additionally, I am learning how to conduct vibration analysis as well.
+**VT RockSat Finite Element Analysis (FEA) Engineer** -- |January 2021 - Present| -- I am learning the foundations of thermal analysis and simulation testing. The main software we use 
+is ANSYS and SOLIDWORKS. The first main task I completed was to approximate the temperature of the payload at the altitude of 160 km. This helped me develop a
+basic understanding of radiation and thermal management. Currently, I am studying vibration testing and the effects of natural frequencies. 
 
 
 **Formula SAE Recruit** -- |October 2019 - October 2020| -- I was a recruit for the Electric Powertrain Team (EPT). I helped design the 
@@ -83,9 +84,12 @@ hybrid system of solar power and kilopower.
 - Java Programming
 - Python 
 - SQL
+- CAM (Computer Aided Manufacturing)
 - Arduino(C, C++)
 - Raspberry Pi
 - Machine Learning
+- Robotics 
+- Mechatronics
 - GIT
 - BitBucket and GitHub
 - Microsoft Office
