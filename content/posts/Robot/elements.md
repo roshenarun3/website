@@ -49,9 +49,9 @@ cue is mainly added precaution to ensure people, including myself, understand wh
 ## **Version 2**
 ----
 ### Current Progress Report 
-{{< figure src="/images/AlfredRFrontPlate.jpg" title="ALFRED V2" height="400" >}}
+{{< figure src="/images/AlfredV2.jpg" title="ALFRED V2" height="400" >}}
 The start of Alfred V2 has begun with the base front plate being 3D printed and shown above. I used **SOLIDWORKS** to build the model 
-and a Creality Ender 3 Pro 3D Printer to print. I made sure to include guide paths for the wiring which has made soldering the LEDs to 
+and a Creality Ender 3 Pro 3D Printer to print. I made sure to include guide paths for the wiring which made soldering the LEDs to 
 each letter and the insignia much easier. In addition to this front plate design, I previously 3D printed and designed the 
 base motor mount which can be seen below in white. The PLA I used was white but in the picture above I spray painted the front plate with a 
 metallic bronze finish. From a software standpoint, I have been reevaluating the use of the current Arduino Uno, or switching over to the 
@@ -64,3 +64,4 @@ Attached below are some progress pictures so please feel free to check them out.
 {{< figure src="/images/FrontPlate.jpg"  height="400" >}}
 {{< figure src="/images/FrontPlate2.jpg"  height="400" >}}
 {{< figure src="/images/MotorBaseMount.jpg" height="400" >}}
+{{< figure src="/images/AlfredRFrontPlate.jpg" height="400" >}}
