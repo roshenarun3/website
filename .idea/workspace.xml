@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf7ad2c7-ebaf-4168-b2a4-0fce8e28d03f" name="Default Changelist" comment="RockSat">
-      <change afterPath="$PROJECT_DIR$/content/posts/Ark - Auto Drone/elements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/DroneCloseUp.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/DroneHeadShot.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/elements3.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/elements3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/Fiberoptic Table/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Fiberoptic Table/elements.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/Magic Mirror/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Magic Mirror/elements.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/Robot/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Robot/elements.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/_index.md" afterDir="false" />
-    </list>
+    <list default="true" id="bf7ad2c7-ebaf-4168-b2a4-0fce8e28d03f" name="Default Changelist" comment="RockSat" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,6 +80,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="software image size" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1628124009381">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1628124009381" />
     <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1628120763693">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
