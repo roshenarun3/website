@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 description: "What I've Been Up to"
-background: "images/ALRED.jpg"
+background: "images/DroneCloseUp.JPG"
 icon: "folder"
 ---
 

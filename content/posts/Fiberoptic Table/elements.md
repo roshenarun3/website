@@ -2,19 +2,18 @@
 title: Fiber-Optics Table
 ---
 
-## Table of contents
+## **Table of contents**
+----
+> ### Overview
 
-* Overview
---
-* Main Obstacles
---
-  - Carving
-  - Fiber-Optics
-  - Epoxy
-* Takeaway
---
-* Gallery
---
+> ### Main Obstacles
+>* Carving
+>* Fiber-Optics
+>* Epoxy
+>* Takeaway
+
+> ### Gallery
+
 
 
 ## Overview

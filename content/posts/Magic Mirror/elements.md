@@ -2,14 +2,14 @@
 title: Magic Mirror
 ---
 
-## Table of contents
+## **Table of contents**
+----
+> ### Overview
 
-* Overview
- --
-* Main Takeaways
---
-  - Raspberry Pi/Linux
-  - Software Concepts
+> ### Main Takeaways
+>* Raspberry Pi/Linux
+>* Software Concepts
+
 
 
 ## Overview

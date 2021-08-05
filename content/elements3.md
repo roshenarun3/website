@@ -3,40 +3,51 @@ title: About Me
 ---
 
 ## Table of contents
+---
 
-- Education
-- Experience
-- Skills
+>  Education
+
+> Experience
+
+> Skills
 
 ## Education
+---
 
 Undergraduate Student at Virginia Tech
-- Mechanical Engineering Major
+- Robotics and Mechatronics Major
 - Computer Science Minor
 - Math Minor
-- Overall GPA: 3.56
-- In Major GPA: 3.70
+- Overall GPA: 3.57
+- In Major GPA: 3.87
 
 *Relevant Courses Taken*
 - PHYS 1 (Mechanics) & PHYS 2 (Electricity and Magnetism)
 - Multivariable Calculus 
 - Linear Algebra
 - Software Design and Data Structures (Java)
+- Computer Organization (C Programming)
 - Statics
 - Differential Equations
 - Manufacturing Processes Lab
 - Engineering Analysis Numerical Methods (MATLAB)
 - Elements of Materials Engineering
-
-*Courses Taking Spring 2021* 
 - Thermodynamics
 - Circuits
 - Mechanics of Deformable Bodies
 - Dynamics
 
+*Courses Taking Fall 2021* 
+- Engineering Design and Economics 
+- Fluid Dynamics
+- Mechanical Design
+- Mechanical Vibrations
+
+
 
 
 ## Experience
+---
 **Undergraduate Researcher (Nest ML)** -- |January 2020 - Present| -- My partner and I are currently developing a system that 
 enhances the capabilities of the Nest Thermostat. The system uses a Raspberry Pi to approximate the heat transfer 
 using an inside temperature node and weather API data. It will then be able to intuitively learn what the ideal set temperature 
@@ -80,18 +91,20 @@ hybrid system of solar power and kilopower.
 
 ## Skills
 - CAD Software (SOLIDWORKS, NX12)
+- Drone Hardware Knowledge 
+- Drone Software Knowledge (Ardupilot, DroneKit, Software-in-the-loop)
 - MATLAB
 - Java Programming
+- C Programming
 - Python 
 - SQL
-- CAM (Computer Aided Manufacturing)
+- 3D Printing
 - Arduino(C, C++)
 - Raspberry Pi
-- Machine Learning
 - Robotics 
 - Mechatronics
 - GIT
 - BitBucket and GitHub
-- Microsoft Office
+
 
 

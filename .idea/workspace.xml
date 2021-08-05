@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf7ad2c7-ebaf-4168-b2a4-0fce8e28d03f" name="Default Changelist" comment="RockSat">
-      <change afterPath="$PROJECT_DIR$/static/images/AlfredV2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/Ark - Auto Drone/elements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/DroneCloseUp.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/DroneHeadShot.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/elements3.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/elements3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/Fiberoptic Table/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Fiberoptic Table/elements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/Magic Mirror/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Magic Mirror/elements.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/posts/Robot/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Robot/elements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/_index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +43,10 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\roshe\Desktop\mysite3\static\images" />
+      <recent name="C:\Users\roshe\Desktop\mysite3\content\posts\Ark - Auto Drone" />
       <recent name="C:\Users\roshe\Desktop\mysite3\content\posts\Robot\Alfred V1\Random" />
       <recent name="C:\Users\roshe\Desktop\mysite3\content\posts\Robot\Alfred V1" />
       <recent name="C:\Users\roshe\Desktop\mysite3\content\posts\Robot" />
-      <recent name="C:\Users\roshe\Desktop\mysite3\content\posts\Alfred V2" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -84,44 +90,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="software image size" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="97" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609371147120">
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1628120763693">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="97" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1609371147120" />
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1614300827672">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.720/-1920.0.1280.720@0.0.1280.720" timestamp="1614300827672" />
-    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1609046303646" />
-    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1616046371325">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720/-1920.0.1280.720@0.0.1280.720" timestamp="1616046371325" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1614300786155">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/-1920.0.1280.720@0.0.1280.720" timestamp="1614300786155" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1609047030156" />
-    <state x="93" y="93" width="1095" height="535" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1616046400945">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="93" y="93" width="1095" height="535" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.720/-1920.0.1280.720@0.0.1280.720" timestamp="1616046400945" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1614913586757">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="-1238" y="270" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1608518536558" />
-    <state x="-1238" y="270" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1680.0.1680.1050@0.0.1280.720" timestamp="1608525004260" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1920.0.1280.720@0.0.1280.720" timestamp="1614913586757" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1609371128392" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1609087107291" />
-    <state x="450" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614300765561">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="450" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720/-1920.0.1280.720@0.0.1280.720" timestamp="1614300765561" />
-    <state x="450" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1609046248772" />
-    <state x="366" y="152" key="git4idea.merge.GitPullDialog" timestamp="1616046056531">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="366" y="152" key="git4idea.merge.GitPullDialog/0.0.1280.720/-1920.0.1280.720@0.0.1280.720" timestamp="1616046056531" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1628120763693" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/3840.0.1680.1050@0.0.1280.720" timestamp="1627415333701" />
   </component>
 </project>

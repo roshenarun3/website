@@ -59,7 +59,7 @@ new Raspberry Pi Pico due to its additional software capabilities. The initial i
 Arduino Uno. However, after doing a bit of research into the subject I don't believe this method will enable me to get the full integration that I would want. 
 The current plan moving forward is to finish designing and printing all of Alfred's parts. The most troublesome mechanism is going to be the face/claw 
 that I am planning to add to the top. This face will be controlled by servos that are connected through strings to enable simple facial expressions (eyebrows, 
-eyes, and mouth). I will continue to upload progress of this project and look forward to finishing it by the end of my Spring 2021 semester! 
+eyes, and mouth). I will continue to upload progress of this project and look forward to finishing it by the end of my Fall 2021 semester! 
 Attached below are some progress pictures so please feel free to check them out. :) 
 {{< figure src="/images/FrontPlate.jpg"  height="400" >}}
 {{< figure src="/images/FrontPlate2.jpg"  height="400" >}}
