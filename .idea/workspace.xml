@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf7ad2c7-ebaf-4168-b2a4-0fce8e28d03f" name="Default Changelist" comment="RockSat" />
+    <list default="true" id="bf7ad2c7-ebaf-4168-b2a4-0fce8e28d03f" name="Default Changelist" comment="RockSat">
+      <change afterPath="$PROJECT_DIR$/static/images/Ark1Finished1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/Ark - Auto Drone/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Ark - Auto Drone/elements.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,17 +30,17 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\roshe\Desktop\mysite3\content\posts\Robot\Alfred V1" />
-      <recent name="C:\Users\roshe\Desktop\mysite3\static\images" />
-      <recent name="C:\Users\roshe\Desktop\mysite3\themes\dimension\images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\roshe\Desktop\mysite3\static\images" />
       <recent name="C:\Users\roshe\Desktop\mysite3\content\posts\Ark - Auto Drone" />
       <recent name="C:\Users\roshe\Desktop\mysite3\content\posts\Robot\Alfred V1\Random" />
       <recent name="C:\Users\roshe\Desktop\mysite3\content\posts\Robot\Alfred V1" />
       <recent name="C:\Users\roshe\Desktop\mysite3\content\posts\Robot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\roshe\Desktop\mysite3\content\posts\Robot\Alfred V1" />
+      <recent name="C:\Users\roshe\Desktop\mysite3\static\images" />
+      <recent name="C:\Users\roshe\Desktop\mysite3\themes\dimension\images" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -84,10 +88,11 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1628124009381" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1628120763693">
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1629910096561">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1628120763693" />
     <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/3840.0.1680.1050@0.0.1280.720" timestamp="1627415333701" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1629910096561" />
   </component>
 </project>
