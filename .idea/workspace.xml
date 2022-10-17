@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf7ad2c7-ebaf-4168-b2a4-0fce8e28d03f" name="Default Changelist" comment="RockSat">
-      <change afterPath="$PROJECT_DIR$/static/images/Ark1Finished1.JPG" afterDir="false" />
+    <list default="true" id="bf7ad2c7-ebaf-4168-b2a4-0fce8e28d03f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/dimension" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/Ark - Auto Drone/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Ark - Auto Drone/elements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/dimension/theme.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/dimension/theme.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/dimension" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
@@ -26,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -75,24 +76,48 @@
       <option name="project" value="LOCAL" />
       <updated>1614287885900</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="RockSat">
+      <created>1663138642458</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663138642458</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changes magic mirror text in alfred" />
     <MESSAGE value="software image size" />
-    <option name="LAST_COMMIT_MESSAGE" value="software image size" />
+    <MESSAGE value="RockSat" />
+    <option name="LAST_COMMIT_MESSAGE" value="RockSat" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1628124009381">
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1663138641725">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1628124009381" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1629910096561">
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1663138641725" />
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1664742737214">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1628120763693" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/3840.0.1680.1050@0.0.1280.720" timestamp="1627415333701" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1629910096561" />
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1664742737214" />
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1664466859925" />
+    <state x="354" y="77" key="MultipleFileMergeDialog" timestamp="1663138571493">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="354" y="77" key="MultipleFileMergeDialog/0.0.1280.720@0.0.1280.720" timestamp="1663138571493" />
+    <state x="476" y="83" key="RollbackChangesDialog" timestamp="1665966938363">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="476" y="83" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1665966938363" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1664742594410">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1664742594410" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1664466822419" />
+    <state x="450" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1663138554224">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="450" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1663138554224" />
   </component>
 </project>

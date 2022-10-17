@@ -87,39 +87,17 @@
 <hr>
 <p>Undergraduate Student at Virginia Tech</p>
 <ul>
-<li>Robotics and Mechatronics Major</li>
-<li>Computer Science Minor</li>
-<li>Math Minor</li>
-<li>Overall GPA: 3.57</li>
-<li>In Major GPA: 3.87</li>
+<li>Robotics and Mechatronics Major (Mechanical Engineering)</li>
 </ul>
-<p><em>Relevant Courses Taken</em></p>
+<p><em>Courses Taking Fall 2022</em></p>
 <ul>
-<li>PHYS 1 (Mechanics) &amp; PHYS 2 (Electricity and Magnetism)</li>
-<li>Multivariable Calculus</li>
-<li>Linear Algebra</li>
-<li>Software Design and Data Structures (Java)</li>
-<li>Computer Organization (C Programming)</li>
-<li>Statics</li>
-<li>Differential Equations</li>
-<li>Manufacturing Processes Lab</li>
-<li>Engineering Analysis Numerical Methods (MATLAB)</li>
-<li>Elements of Materials Engineering</li>
-<li>Thermodynamics</li>
-<li>Circuits</li>
-<li>Mechanics of Deformable Bodies</li>
-<li>Dynamics</li>
-</ul>
-<p><em>Courses Taking Fall 2021</em></p>
-<ul>
-<li>Engineering Design and Economics</li>
-<li>Fluid Dynamics</li>
-<li>Mechanical Design</li>
-<li>Mechanical Vibrations</li>
+<li>Robotics and Automation</li>
+<li>Mechatronics: Theory and Application</li>
+<li>Engineering Design and Project</li>
 </ul>
 <h2 id="experience">Experience</h2>
 <hr>
-<p><strong>Undergraduate Researcher (Nest ML)</strong> &ndash; |January 2020 - Present| &ndash; My partner and I are currently developing a system that 
+<p><strong>Undergraduate Researcher (Nest ML)</strong> &ndash; |January 2020 - May 2022| &ndash; The goal of this project was to develop a system that 
 enhances the capabilities of the Nest Thermostat. The system uses a Raspberry Pi to approximate the heat transfer 
 using an inside temperature node and weather API data. It will then be able to intuitively learn what the ideal set temperature 
 for the Nest thermostat will be to maintain the designated ambient temperature. I worked on the database component of the project which
@@ -127,14 +105,17 @@ logs temperature data and calculated values into a sqlite database. The logging 
 composed of three columns: temperature node reading (inside), outside weather temperature, and Qtotal (heat transfer). This lookup table is prepopulated 
 with each row containing a different realistic combination of temperature node reading and outside weather temperature.
 So when the user inputs a set temperature through the nest, the temperature node and outside weather data can be referenced. These values
-are then inserted into a SQL query that can quickly pinpoint the corresponding Qtotal value. We are currently working on relating this Qtotal value, which 
-is calculated by using a combination of radiation and convection heat transfer equations, to the ideal set temperature 
-for the Nest. My partner and I have been learning to implement a feedforward neural network system. This network will take the Qtotal value along with 
-temperature node data and weather API to estimate the ideal set temperature for the Nest that best maintains the user&rsquo;s ambient temperature setting 
-(what the user wants the house to feel like).</p>
-<p><strong>VT RockSat Finite Element Analysis (FEA) Engineer</strong> &ndash; |January 2021 - Present| &ndash; I am learning the foundations of thermal analysis and simulation testing. The main software we use 
-is ANSYS and SOLIDWORKS. The first main task I completed was to approximate the temperature of the payload at the altitude of 160 km. This helped me develop a
-basic understanding of radiation and thermal management. Currently, I am studying vibration testing and the effects of natural frequencies.</p>
+are then inserted into a SQL query that can quickly pinpoint the corresponding Qtotal value. The next step was to relate the Qtotal value 
+to a set temperature for the Nest with machine learning. Over two semesters, we tried using two different methods of data collection to train 
+a model. The first method was an automated thermal chamber to obtain relevant temperature metrics on a small scale. After I built this chamber and
+started data collection, we concluded the chamber was too simplified and not accurately related to a house. This led us to the 
+second method, building a automated temperature collecting node that collects relevant data features at each of our houses. This data 
+was used to train a model that used a gradient boosted classifier to understand if a user is hot, cold, or comfortable. Additionally, 
+the automated temperature collecting node had buttons that allowed the user to input how they felt (hot, cold, comfortable).</p>
+<p><strong>VT RockSat Finite Element Analysis (FEA) Engineer</strong> &ndash; |January 2021 - May 2022| &ndash; I learned about the basics of 
+modal analysis and static structural analysis. I completed a static stress analysis of the boom under estimated loads. Additionally, 
+I completed modal analysis to ensure components natural frequencies were in designated ranges. This experience set my foundation that 
+I was able to build on at Northrop Grumman in Finite Element Analysis.</p>
 <p><strong>Formula SAE Recruit</strong> &ndash; |October 2019 - October 2020| &ndash; I was a recruit for the Electric Powertrain Team (EPT). I helped design the 
 Emrax motor casing and PCB mounts for the Electric Vehicle (EV). The CAD Software used in designing was mainly NX12 and SOLIDWORKS. 
 I additionally learned about the mechanics of both EV and internal combustion (IC) vehicle through attending different subteam meetings. The 
@@ -156,14 +137,16 @@ hybrid system of solar power and kilopower.</p>
 <h2 id="skills">Skills</h2>
 <ul>
 <li>CAD Software (SOLIDWORKS, NX12)</li>
-<li>Drone Hardware Knowledge</li>
-<li>Drone Software Knowledge (Ardupilot, DroneKit, Software-in-the-loop)</li>
+<li>Finite Element Analysis (Femap, Nastran)</li>
+<li>Drone Hardware</li>
+<li>Drone Software (Ardupilot, DroneKit, Software-in-the-loop)</li>
 <li>MATLAB</li>
+<li>Mathematica</li>
 <li>Java Programming</li>
 <li>C Programming</li>
 <li>Python</li>
 <li>SQL</li>
-<li>3D Printing</li>
+<li>3D Modeling and Manufacturing</li>
 <li>Arduino(C, C++)</li>
 <li>Raspberry Pi</li>
 <li>Robotics</li>

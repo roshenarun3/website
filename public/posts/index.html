@@ -4,10 +4,10 @@
     <title>Projects</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <link rel="stylesheet" href="http://example.org/assets/css/main.css"/>
-    <noscript><link rel="stylesheet" href="http://example.org/assets/css/noscript.css"/></noscript>
+    <link rel="stylesheet" href="http://roshenarun.com/assets/css/main.css"/>
+    <noscript><link rel="stylesheet" href="http://roshenarun.com/assets/css/noscript.css"/></noscript>
     <style>
-        :root{--site-background : url("http://example.org/images/ALRED.jpg")};
+        :root{--site-background : url("http://roshenarun.com/images/DroneCloseUp.JPG")};
     </style> 
     
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
@@ -47,6 +47,14 @@
                                 
                                     
                                         <li>
+                                            <a href="#ark-1-auto-drone">Ark 1 - Auto Drone</a>
+                                        </li>
+                                    
+                                
+                            
+                                
+                                    
+                                        <li>
                                             <a href="#fiber-optics-table">Fiber-Optics Table</a>
                                         </li>
                                     
@@ -73,36 +81,28 @@
                                 <article id="alfred-robot">
                                     <h2 class="major">Alfred - Robot</h2>
                                     <span class="image main"><img src="" alt="" /></span>
-                                    <h2 id="table-of-contents">Table of contents</h2>
+                                    <h2 id="table-of-contents"><strong>Table of contents</strong></h2>
+<hr>
+<blockquote>
+<h3 id="version-1"><strong>Version 1</strong></h3>
 <ul>
-<li>
-<table>
-<thead>
-<tr>
-<th>Overview</th>
-</tr>
-</thead>
-</table>
-</li>
-<li>
-<table>
-<thead>
-<tr>
-<th>Main Tasks</th>
-</tr>
-</thead>
-</table>
-<ul>
+<li>Overview (V1)</li>
 <li>Software</li>
 <li>Hardware</li>
 </ul>
-</li>
+</blockquote>
+<blockquote>
+<h3 id="version-2">Version 2</h3>
+<ul>
+<li>Current Progress Report</li>
 </ul>
-<h2 id="overview">Overview</h2>
+</blockquote>
+<h2 id="version-1-1"><strong>Version 1</strong></h2>
 <hr>
+<h3 id="overview-v1">Overview (V1)</h3>
 <p><figure>
     <img src="/images/ALRED.jpg" height="400"/> <figcaption>
-            <h4>Magic Mirror</h4>
+            <h4>ALFRED V1</h4>
         </figcaption>
 </figure>
 
@@ -113,11 +113,9 @@ also respond to its own name. I am currently working on further developing this 
 voice recognition library. A project I am looking into for furthering my <strong>machine learning</strong> knowledge is to implement a 
 <strong>neural network</strong> that can recognize the name ALFRED. Moving forward, I hope to applying new computer science and
 mechanical engineering concepts I learn from my classes.</p>
-<h2 id="main-tasks">Main Tasks</h2>
-<hr>
-<h3 id="software">Software</h3>
+<h4 id="software">Software</h4>
 <p><figure class="pull-left">
-    <img src="/images/mirror2.JPG" height="300"/> 
+    <img src="/images/software.png" height="200"/> 
 </figure>
  
 From a software standpoint, Arduino uses <strong>C/C++</strong>. Since I took two <strong>data structures and algorithms classes in Java</strong>,
@@ -128,14 +126,75 @@ reading which activated the corresponding servo positions and movements. A cruci
 limit which is dependent on the design of the arm. During my mechanical design phase of the robotic arm, I wasn&rsquo;t paying attention 
 to the orientation of the servos and snapped an arm clean in half. That&rsquo;s when I limited the servo positions to ensure that each servo can&rsquo;t 
 break the arm.</p>
-<h3 id="hardware">Hardware</h3>
-<p>The first major step in the construction of ALFRED was building a functional arm. I used basic <em>statics</em> and my understanding of 
+<h4 id="hardware">Hardware</h4>
+<p><figure class="pull-left">
+    <img src="/images/hardware.JPG" height="300"/> 
+</figure>
+ 
+The first major step in the construction of ALFRED was building a functional arm. I used basic <strong>statics</strong> and my understanding of 
 weight distribution to construct the arm. Once I was satisfied with the design, I had to integrate the servos, wiring, and 
 sensor. I used <strong>Ohm&rsquo;s law</strong> when choosing a power source and wiring path for the servos, ensuring that all the servos were sufficiently
 powered. The servos were powered by a 5V DC power supply, while the Arduino directly powered the gesture sensor with 3.3 volts. In order for the gesture sensor to function with the Arduino, I had 
 to <strong>solder</strong> the header pins to the sensor, enabling me to use Arduino jumper wires. Finally, I connected all the components 
 using a breadboard to keep track of the wiring. I added a singular LED to the servo power circuit to have a visual cue when its active. This 
 cue is mainly added precaution to ensure people, including myself, understand when the circuit is live and prevents people from shocking themselves.</p>
+<h2 id="version-2-1"><strong>Version 2</strong></h2>
+<hr>
+<h3 id="current-progress-report">Current Progress Report</h3>
+<p><figure>
+    <img src="/images/AlfredV2.jpg" height="400"/> <figcaption>
+            <h4>ALFRED V2</h4>
+        </figcaption>
+</figure>
+
+The start of Alfred V2 has begun with the base front plate being 3D printed and shown above. I used <strong>SOLIDWORKS</strong> to build the model 
+and a Creality Ender 3 Pro 3D Printer to print. I made sure to include guide paths for the wiring which made soldering the LEDs to 
+each letter and the insignia much easier. In addition to this front plate design, I previously 3D printed and designed the 
+base motor mount which can be seen below in white. The PLA I used was white but in the picture above I spray painted the front plate with a 
+metallic bronze finish. From a software standpoint, I have been reevaluating the use of the current Arduino Uno, or switching over to the 
+new Raspberry Pi Pico due to its additional software capabilities. The initial idea was to use the Raspberry Pi 4 that I possess to control the 
+Arduino Uno. However, after doing a bit of research into the subject I don&rsquo;t believe this method will enable me to get the full integration that I would want. 
+The current plan moving forward is to finish designing and printing all of Alfred&rsquo;s parts. The most troublesome mechanism is going to be the face/claw 
+that I am planning to add to the top. This face will be controlled by servos that are connected through strings to enable simple facial expressions (eyebrows, 
+eyes, and mouth). 
+Attached below are some progress pictures so please feel free to check them out. :) 
+<figure>
+    <img src="/images/FrontPlate.jpg" height="400"/> 
+</figure>
+
+<figure>
+    <img src="/images/FrontPlate2.jpg" height="400"/> 
+</figure>
+
+<figure>
+    <img src="/images/MotorBaseMount.jpg" height="400"/> 
+</figure>
+
+<figure>
+    <img src="/images/AlfredRFrontPlate.jpg" height="400"/> 
+</figure>
+</p>
+
+                                </article>
+                            
+                        
+                    
+                        
+                            
+                                <article id="ark-1-auto-drone">
+                                    <h2 class="major">Ark 1 - Auto Drone</h2>
+                                    <span class="image main"><img src="" alt="" /></span>
+                                    <h2 id="overview">Overview</h2>
+<hr>
+<p><figure>
+    <img src="/images/Ark1Finished1.JPG" width="570" height="400"/> <figcaption>
+            <h4>ARK 1</h4>
+        </figcaption>
+</figure>
+
+Ark 1 is a drone that will have autonomous and manual capabilities. Currently, the drone has been built and tested, ensuring manual and
+semi-autonomous modes are fully functional (RTL, Land, Loiter). Additionally, the drone has been operated through Raspberry Pi and Python, displaying 
+its autonomous capabilities. Moving forward requires testing on large-scale aerial facilities due to the hazards of autonomous testing.</p>
 
                                 </article>
                             
@@ -146,51 +205,24 @@ cue is mainly added precaution to ensure people, including myself, understand wh
                                 <article id="fiber-optics-table">
                                     <h2 class="major">Fiber-Optics Table</h2>
                                     <span class="image main"><img src="" alt="" /></span>
-                                    <h2 id="table-of-contents">Table of contents</h2>
-<ul>
-<li>
-<table>
-<thead>
-<tr>
-<th>Overview</th>
-</tr>
-</thead>
-</table>
-</li>
-<li>
-<table>
-<thead>
-<tr>
-<th>Main Obstacles</th>
-</tr>
-</thead>
-</table>
+                                    <h2 id="table-of-contents"><strong>Table of contents</strong></h2>
+<hr>
+<blockquote>
+<h3 id="overview">Overview</h3>
+</blockquote>
+<blockquote>
+<h3 id="main-obstacles">Main Obstacles</h3>
 <ul>
 <li>Carving</li>
 <li>Fiber-Optics</li>
 <li>Epoxy</li>
+<li>Takeaway</li>
 </ul>
-</li>
-<li>
-<table>
-<thead>
-<tr>
-<th>Takeaway</th>
-</tr>
-</thead>
-</table>
-</li>
-<li>
-<table>
-<thead>
-<tr>
-<th>Gallery</th>
-</tr>
-</thead>
-</table>
-</li>
-</ul>
-<h2 id="overview">Overview</h2>
+</blockquote>
+<blockquote>
+<h3 id="gallery">Gallery</h3>
+</blockquote>
+<h2 id="overview-1">Overview</h2>
 <hr>
 <p><figure>
     <img src="/images/NightFiberOpticTable.JPG" height="400"/> <figcaption>
@@ -205,7 +237,7 @@ a bioluminescent river that would flow through the table. To maximize the glow o
 the table would be stained black. This detail gave me the idea to add a 
 star pattern and constellations around the river. I used an orange LED to highlight the 
 Big Dipper constellation along with Polaris as they hold special meaning to me.</p>
-<h2 id="main-obstacles">Main Obstacles</h2>
+<h2 id="main-obstacles-1">Main Obstacles</h2>
 <hr>
 <h3 id="carving">Carving</h3>
 <p><figure class="pull-left">
@@ -229,11 +261,11 @@ passes with a mouse sander and this step was finished.</p>
  
 This step was interesting as I had absolutely no experience using fiber-optic cables before. 
 When I bought them I tried using a light bulb as a light source. I observed that certain cables were brighter than others depending 
-on the orientation they were placed in relation to the light bulb. This led me to conclude hat I needed a narrower, concentrated beam of light. I tried 
+on the orientation they were placed in relation to the light bulb. This led me to conclude that I needed a narrower, concentrated beam of light. I tried 
 using mirror film to narrow the light from the bulb into more of a direct beam, but I couldn&rsquo;t get the placement of the cables to optimize the reflection. This is 
 when I opened my electrical kit and started using singular LEDs. At first, I was skeptical about the LEDs, however they quickly proved effective 
 during testing as they provided a much more direct and narrow beam of light. So, I quickly put together a circuit with my knowledge of Ohm&rsquo;s law and wired 
-the 5 fiber-optic cable groups to 5 singular LEDs. This worked very well as the blue and white LEDs gave the fiber-optics a starry, bioluminescent effect.
+the 5 fiber-optic cable groups to 5 singular LEDs. This worked very well as the blue and white LEDs gave the table a starry, bioluminescent effect.
 The orange LED gave a perfect accent to the starry sky, outlining the constellations with a warm orange/golden hue. I was 
 very pleased with this step.</p>
 <h3 id="epoxy">Epoxy</h3>
@@ -246,25 +278,25 @@ epoxy resin. Since this was my first project using epoxy resin, I concluded from
 enough viscosity to trap the fiber-optic cables without the need of any holding mechanisms for the cables themselves.
 I soon realized this was not the case. While I was pouring the epoxy resin, the cables continued to pull themselves out of the 
 resin. This behavior can be attributed to the fact that the cables were laid onto the river pattern using three different input holes. 
-These holes were drilled straight through the board, and the cables were fed through, attached, and sealed. This meant that the 
+These holes were drilled straight through the board, and the cables were fed through from underneath the table, attached, and sealed. This meant that the 
 fiber-optic cables needed to be bent 90 degrees to stay within the river pattern. Despite the flexibility of the cables, the bending 
-angle of 90 degrees required more holding force than the viscous force of epoxy resin. This lead to the use parchment paper and 
+angle of 90 degrees required more holding force than the viscous force of epoxy resin. This lead to the use of parchment paper and 
 my toolbox to slam all the wires down once the epoxy was poured to ensure all the cables would be submerged. However, this 
-meant that I had little control over the cable placement. I had to quickly address this problem because the two part epoxy 
+meant that I had little control over the cable placement. Additionally, I had to quickly address this problem because the two part epoxy 
 resin was mixed together, so I had about a 30 minutes time frame before the resin starts setting. The solution worked relatively well 
 as the cables were embedded into the epoxy. Although, the epoxy areas in direct contact with the parchment paper became clouded which 
-was the collateral damage to my technique. I tried sanding it down and polishing but had no luck. Overall, this step went well despite 
+was the collateral damage to my technique. I tried sanding and polishing the clouded sections down but had no luck. Overall, this step went well despite 
 the initial problems.</p>
 <h2 id="takeaway">Takeaway</h2>
 <hr>
 <p>This project proved to be more difficult than anticipated, but the engineering process was something I thoroughly enjoyed. 
-I had to use my previous woodworking experiences, online resources, and electricity concepts from Physics 2 to execute this 
-project. Additionally, being able to take abstract concepts from a class such as physics 2 and apply them into the real-world gave 
-me more insight into electricity and the nuances involved. Moving forward, I want to incorporate more electrical components 
-into my future projects and develop my knowledge in circuits, bridging the gap between real-world application and the classroom setting. 
+I had to use my previous <strong>woodworking experiences</strong>, online resources, and <strong>electricity concepts</strong> to execute this 
+project. Additionally, the fiber-optic table gave me more insight into electricity and the nuances involved in real-world application. 
+Moving forward, I want to incorporate more electrical components 
+into my future projects to further develop my knowledge in circuits, bridging the gap between real-world application and the classroom setting. 
 The fiber-optic table challenged me as a builder with the obstacles and issues we ran into. However, I overcame them and gained a better 
 understanding in different areas of expertise along with a beautiful table that still functions in my room today.</p>
-<h2 id="gallery">Gallery</h2>
+<h2 id="gallery-1">Gallery</h2>
 <hr>
 <p><figure>
     <img src="/images/NightFiberOpticTable.JPG" height="400"/> 
@@ -300,32 +332,19 @@ understanding in different areas of expertise along with a beautiful table that 
                                 <article id="magic-mirror">
                                     <h2 class="major">Magic Mirror</h2>
                                     <span class="image main"><img src="" alt="" /></span>
-                                    <h2 id="table-of-contents">Table of contents</h2>
-<ul>
-<li>
-<table>
-<thead>
-<tr>
-<th>Overview</th>
-</tr>
-</thead>
-</table>
-</li>
-<li>
-<table>
-<thead>
-<tr>
-<th>Main Takeaways</th>
-</tr>
-</thead>
-</table>
+                                    <h2 id="table-of-contents"><strong>Table of contents</strong></h2>
+<hr>
+<blockquote>
+<h3 id="overview">Overview</h3>
+</blockquote>
+<blockquote>
+<h3 id="main-takeaways">Main Takeaways</h3>
 <ul>
 <li>Raspberry Pi/Linux</li>
 <li>Software Concepts</li>
 </ul>
-</li>
-</ul>
-<h2 id="overview">Overview</h2>
+</blockquote>
+<h2 id="overview-1">Overview</h2>
 <hr>
 <p><figure>
     <img src="/images/mirror.jpg" height="400"/> <figcaption>
@@ -335,12 +354,12 @@ understanding in different areas of expertise along with a beautiful table that 
 
 This project was an extremely fun, enlightening, and useful build. The magic mirror concept 
 has been around for a while, so there are numerous github pages and videos explaining 
-how to build one for yourself. However, I added certain widgets and went for a frameless design
+how to build one. However, I added certain widgets and went for a frameless design
 to further personalize my mirror. The mirror itself is comprised of a wooden frame and glass with a two-way mirror film. 
 When light is blocked out from one side of the film, the other side becomes completely reflective. Since the program runs a 
 black background, the text and images shine through the glass while the background is reflective, 
 creating the magic mirror effect. No matter how many times I check my mirror, the view never gets old.</p>
-<h2 id="main-takeaways">Main Takeaways</h2>
+<h2 id="main-takeaways-1">Main Takeaways</h2>
 <hr>
 <h3 id="raspberry-pilinux">Raspberry Pi/Linux</h3>
 <p><figure class="pull-left">
@@ -349,7 +368,7 @@ creating the magic mirror effect. No matter how many times I check my mirror, th
  
 Everything about the Raspberry Pi and Linux was relatively new to me, from uploading the OS onto the SD card to 
 maneuvering around files throughout the device. This experience allowed me to learn <strong>bash commands</strong> to alter, move, and 
-work with files. I also furthered my understanding of <strong>GIT</strong> as I used clones from github to obtain localized versions of 
+work with files. I also furthered my understanding of <strong>Git</strong> as I used clones from github to obtain localized versions of 
 files and add-ons. Additionally, I configured my Raspberry Pi to my MacBook Air through <strong>Microsoft Remote Desktop</strong>. This allowed 
 me to remote access my Raspberry Pi without having to directly use the mirror. Another learning experience I had was with the <strong>audio inputs and 
 outputs</strong> of the Raspberry Pi. I configured a usb microphone and usb speaker to the Raspberry Pi. However, I couldn&rsquo;t get my Python script, 
@@ -385,10 +404,10 @@ further into <strong>JSON</strong> for web development purposes as it remains an
 
 
     
-    <script src=http://example.org/assets/js/jquery.min.js></script>
-    <script src=http://example.org/assets/js/browser.min.js></script>
-    <script src=http://example.org/assets/js/breakpoints.min.js></script>
-    <script src=http://example.org/assets/js/util.js></script>
-    <script src=http://example.org/assets/js/main.js></script>
+    <script src=http://roshenarun.com/assets/js/jquery.min.js></script>
+    <script src=http://roshenarun.com/assets/js/browser.min.js></script>
+    <script src=http://roshenarun.com/assets/js/breakpoints.min.js></script>
+    <script src=http://roshenarun.com/assets/js/util.js></script>
+    <script src=http://roshenarun.com/assets/js/main.js></script>
 
 </html>

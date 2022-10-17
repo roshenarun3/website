@@ -5,7 +5,7 @@ title: About Me
 ## Table of contents
 ---
 
->  Education
+> Education
 
 > Experience
 
@@ -15,40 +15,19 @@ title: About Me
 ---
 
 Undergraduate Student at Virginia Tech
-- Robotics and Mechatronics Major
-- Computer Science Minor
-- Math Minor
-- Overall GPA: 3.57
-- In Major GPA: 3.87
+- Robotics and Mechatronics Major (Mechanical Engineering)
 
-*Relevant Courses Taken*
-- PHYS 1 (Mechanics) & PHYS 2 (Electricity and Magnetism)
-- Multivariable Calculus 
-- Linear Algebra
-- Software Design and Data Structures (Java)
-- Computer Organization (C Programming)
-- Statics
-- Differential Equations
-- Manufacturing Processes Lab
-- Engineering Analysis Numerical Methods (MATLAB)
-- Elements of Materials Engineering
-- Thermodynamics
-- Circuits
-- Mechanics of Deformable Bodies
-- Dynamics
-
-*Courses Taking Fall 2021* 
-- Engineering Design and Economics 
-- Fluid Dynamics
-- Mechanical Design
-- Mechanical Vibrations
+*Courses Taking Fall 2022* 
+- Robotics and Automation
+- Mechatronics: Theory and Application
+- Engineering Design and Project
 
 
 
 
 ## Experience
 ---
-**Undergraduate Researcher (Nest ML)** -- |January 2020 - Present| -- My partner and I are currently developing a system that 
+**Undergraduate Researcher (Nest ML)** -- |January 2020 - May 2022| -- The goal of this project was to develop a system that 
 enhances the capabilities of the Nest Thermostat. The system uses a Raspberry Pi to approximate the heat transfer 
 using an inside temperature node and weather API data. It will then be able to intuitively learn what the ideal set temperature 
 for the Nest thermostat will be to maintain the designated ambient temperature. I worked on the database component of the project which
@@ -56,16 +35,19 @@ logs temperature data and calculated values into a sqlite database. The logging 
 composed of three columns: temperature node reading (inside), outside weather temperature, and Qtotal (heat transfer). This lookup table is prepopulated 
 with each row containing a different realistic combination of temperature node reading and outside weather temperature.
 So when the user inputs a set temperature through the nest, the temperature node and outside weather data can be referenced. These values
-are then inserted into a SQL query that can quickly pinpoint the corresponding Qtotal value. We are currently working on relating this Qtotal value, which 
-is calculated by using a combination of radiation and convection heat transfer equations, to the ideal set temperature 
-for the Nest. My partner and I have been learning to implement a feedforward neural network system. This network will take the Qtotal value along with 
-temperature node data and weather API to estimate the ideal set temperature for the Nest that best maintains the user's ambient temperature setting 
-(what the user wants the house to feel like). 
+are then inserted into a SQL query that can quickly pinpoint the corresponding Qtotal value. The next step was to relate the Qtotal value 
+to a set temperature for the Nest with machine learning. Over two semesters, we tried using two different methods of data collection to train 
+a model. The first method was an automated thermal chamber to obtain relevant temperature metrics on a small scale. After I built this chamber and
+started data collection, we concluded the chamber was too simplified and not accurately related to a house. This led us to the 
+second method, building a automated temperature collecting node that collects relevant data features at each of our houses. This data 
+was used to train a model that used a gradient boosted classifier to understand if a user is hot, cold, or comfortable. Additionally, 
+the automated temperature collecting node had buttons that allowed the user to input how they felt (hot, cold, comfortable). 
 
-**VT RockSat Finite Element Analysis (FEA) Engineer** -- |January 2021 - Present| -- I am learning the foundations of thermal analysis and simulation testing. The main software we use 
-is ANSYS and SOLIDWORKS. The first main task I completed was to approximate the temperature of the payload at the altitude of 160 km. This helped me develop a
-basic understanding of radiation and thermal management. Currently, I am studying vibration testing and the effects of natural frequencies. 
 
+**VT RockSat Finite Element Analysis (FEA) Engineer** -- |January 2021 - May 2022| -- I learned about the basics of 
+modal analysis and static structural analysis. I completed a static stress analysis of the boom under estimated loads. Additionally, 
+I completed modal analysis to ensure components natural frequencies were in designated ranges. This experience set my foundation that 
+I was able to build on at Northrop Grumman in Finite Element Analysis. 
 
 **Formula SAE Recruit** -- |October 2019 - October 2020| -- I was a recruit for the Electric Powertrain Team (EPT). I helped design the 
 Emrax motor casing and PCB mounts for the Electric Vehicle (EV). The CAD Software used in designing was mainly NX12 and SOLIDWORKS. 
@@ -91,14 +73,16 @@ hybrid system of solar power and kilopower.
 
 ## Skills
 - CAD Software (SOLIDWORKS, NX12)
-- Drone Hardware Knowledge 
-- Drone Software Knowledge (Ardupilot, DroneKit, Software-in-the-loop)
+- Finite Element Analysis (Femap, Nastran)     
+- Drone Hardware 
+- Drone Software (Ardupilot, DroneKit, Software-in-the-loop)
 - MATLAB
+- Mathematica
 - Java Programming
 - C Programming
 - Python 
 - SQL
-- 3D Printing
+- 3D Modeling and Manufacturing 
 - Arduino(C, C++)
 - Raspberry Pi
 - Robotics 

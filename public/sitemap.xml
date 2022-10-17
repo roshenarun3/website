@@ -3,39 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/elements3/</loc>
+    <loc>http://roshenarun.com/elements3/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/robot/elements/</loc>
+    <loc>http://roshenarun.com/posts/robot/elements/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://roshenarun.com/posts/ark-auto-drone/elements/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/elements4/</loc>
+    <loc>http://roshenarun.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/fiberoptic-table/elements/</loc>
+    <loc>http://roshenarun.com/elements4/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/magic-mirror/elements/</loc>
+    <loc>http://roshenarun.com/posts/fiberoptic-table/elements/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://roshenarun.com/posts/magic-mirror/elements/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://roshenarun.com/posts/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://roshenarun.com/</loc>
+  </url>
+  
+  <url>
+    <loc>http://roshenarun.com/tags/</loc>
   </url>
   
 </urlset>
